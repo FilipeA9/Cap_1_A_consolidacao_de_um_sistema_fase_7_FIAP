@@ -4,10 +4,6 @@
 
 # FarmTech Solutions — Sistema Integrado de Gestão Agrícola (Fase 7)
 
-## Nome do grupo
-
-[PREENCHER: nome do grupo]
-
 ## 👨‍🎓 Integrantes:
 
 - Diogo Ferreira Pereira
