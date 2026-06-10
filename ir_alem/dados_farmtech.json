@@ -1,0 +1,42 @@
+{
+    "orcamento": 5000,
+
+    "insumos": [
+
+        {
+            "nome": "Adubo Nitrogenado Soja",
+            "custo": 800,
+            "beneficio": 180
+        },
+
+        {
+            "nome": "Semente Premium Soja",
+            "custo": 1200,
+            "beneficio": 300
+        },
+
+        {
+            "nome": "Adubo Nitrogenado Cafe",
+            "custo": 900,
+            "beneficio": 220
+        },
+
+        {
+            "nome": "Sistema de Irrigacao",
+            "custo": 2500,
+            "beneficio": 600
+        },
+
+        {
+            "nome": "Sensores IoT",
+            "custo": 1500,
+            "beneficio": 350
+        },
+
+        {
+            "nome": "Drone de Monitoramento",
+            "custo": 1800,
+            "beneficio": 450
+        }
+    ]
+}
