@@ -1,0 +1,11 @@
+# Dataset da Fase 6 - deteccao de macas (frutos) e garrafas (objetos
+# estranhos/descarte irregular na lavoura). 80 imagens rotuladas no
+# Make Sense AI no formato YOLO (classe 0 = maca, classe 1 = garrafa).
+path: .
+train: dataset/train/images
+val: dataset/val/images
+test: dataset/test/images
+
+names:
+  0: maca
+  1: garrafa

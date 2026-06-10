@@ -1,0 +1,24 @@
+# FarmTech Solutions - Fase 7 - Dependencias unificadas
+# Nucleo de dados e Machine Learning (Fases 4 e 5)
+pandas>=2.1.0
+numpy>=1.26.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# Dashboard (Fase 4 / Fase 7)
+streamlit>=1.28.0
+plotly>=5.18.0
+
+# Integracao com APIs (Fases 1 e 2 - OpenWeather)
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Mensageria AWS (Fase 7 - SNS)
+boto3>=1.34.0
+
+# Visao computacional (Fase 6 - YOLO). Instalacao pesada (inclui PyTorch).
+# Necessaria apenas para os comandos "treinar-yolo" e "visao".
+ultralytics>=8.1.0
+
+# Imagens (galeria da dashboard)
+pillow>=10.0.0

@@ -1,0 +1,26 @@
+# Ambientes e segredos
+venv/
+.venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Banco e artefatos gerados
+database/*.db
+services/fase4_ml/saved/
+services/fase6_visao/runs/
+services/fase6_visao/saida/
+exports/
+
+# Pesos grandes de treino intermediário (mantemos apenas o best.pt final)
+*.pt
+!services/fase6_visao/best.pt
+
+# IDE / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
